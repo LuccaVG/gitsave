@@ -1,0 +1,15 @@
+C:\Users\54297548895\Desktop\trabalho switch\bin\Debug\net7.0\trabalho switch.exe
+C:\Users\54297548895\Desktop\trabalho switch\bin\Debug\net7.0\trabalho switch.deps.json
+C:\Users\54297548895\Desktop\trabalho switch\bin\Debug\net7.0\trabalho switch.runtimeconfig.json
+C:\Users\54297548895\Desktop\trabalho switch\bin\Debug\net7.0\trabalho switch.dll
+C:\Users\54297548895\Desktop\trabalho switch\bin\Debug\net7.0\trabalho switch.pdb
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.csproj.AssemblyReference.cache
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.AssemblyInfoInputs.cache
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.AssemblyInfo.cs
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.csproj.CoreCompileInputs.cache
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.dll
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\refint\trabalho switch.dll
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.pdb
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\trabalho switch.genruntimeconfig.cache
+C:\Users\54297548895\Desktop\trabalho switch\obj\Debug\net7.0\ref\trabalho switch.dll

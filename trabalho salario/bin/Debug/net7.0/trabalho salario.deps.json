@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "trabalho salario/1.0.0": {
+        "runtime": {
+          "trabalho salario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalho salario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

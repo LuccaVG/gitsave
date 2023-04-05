@@ -1,0 +1,5 @@
+C:\Users\54297548895\Desktop\backend.proj2\obj\Debug\net7.0\backend.proj2.csproj.AssemblyReference.cache
+C:\Users\54297548895\Desktop\backend.proj2\obj\Debug\net7.0\backend.proj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54297548895\Desktop\backend.proj2\obj\Debug\net7.0\backend.proj2.AssemblyInfoInputs.cache
+C:\Users\54297548895\Desktop\backend.proj2\obj\Debug\net7.0\backend.proj2.AssemblyInfo.cs
+C:\Users\54297548895\Desktop\backend.proj2\obj\Debug\net7.0\backend.proj2.csproj.CoreCompileInputs.cache

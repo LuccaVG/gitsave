@@ -1,0 +1,15 @@
+C:\Users\54297548895\Desktop\trabalho geometria\bin\Debug\net7.0\trabalho geometria.exe
+C:\Users\54297548895\Desktop\trabalho geometria\bin\Debug\net7.0\trabalho geometria.deps.json
+C:\Users\54297548895\Desktop\trabalho geometria\bin\Debug\net7.0\trabalho geometria.runtimeconfig.json
+C:\Users\54297548895\Desktop\trabalho geometria\bin\Debug\net7.0\trabalho geometria.dll
+C:\Users\54297548895\Desktop\trabalho geometria\bin\Debug\net7.0\trabalho geometria.pdb
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.csproj.AssemblyReference.cache
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.AssemblyInfoInputs.cache
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.AssemblyInfo.cs
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.csproj.CoreCompileInputs.cache
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.dll
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\refint\trabalho geometria.dll
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.pdb
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\trabalho geometria.genruntimeconfig.cache
+C:\Users\54297548895\Desktop\trabalho geometria\obj\Debug\net7.0\ref\trabalho geometria.dll
